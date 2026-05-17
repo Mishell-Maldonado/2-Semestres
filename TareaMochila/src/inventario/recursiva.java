@@ -1,5 +1,5 @@
 package inventario;
-public class recusivida {
+public class recursiva {
     
 public static int optimizar(int[] pesos, int[] valores, int[] costos, int capacidad, int presupuesto, int n) {
         if (n == 0 || capacidad == 0 || presupuesto == 0) {
